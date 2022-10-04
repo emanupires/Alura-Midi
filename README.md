@@ -4,6 +4,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status%3A-%20Desenvolvido-brightgreen"/>
+<img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 Projeto feito para o curso "JavaScript para Web: Crie páginas dinâmicas" da Alura. Modifiquei o CSS e HTML já existentes, alterando fontes, cores e inserindo imagens.
