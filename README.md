@@ -8,3 +8,5 @@
 </p>
 
 Projeto feito para o curso "JavaScript para Web: Crie páginas dinâmicas" da Alura. Modifiquei o CSS e HTML já existentes, alterando fontes, cores e inserindo imagens.
+
+Link do deploy: https://emanupires.github.io/Alura-Midi/.
